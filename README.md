@@ -1,0 +1,2 @@
+# Project-with-Plus10
+Design of disturbance behavior of a fully automated production line by developing a classification model. Application of machine learning, scikit-learn and statistical algorithms through Python with Numpy, Pandas, Scikit-learn. Building loss prediction (Remaining Useful Life) of a machine component from drill-down to wear. Application of Machine Learning through Python and Scikit-learn.
