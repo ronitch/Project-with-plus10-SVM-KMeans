@@ -1,6 +1,6 @@
 # Project-with-Plus10
 
-Plus10 is a manufacturing company based in Augsburg, Bayern and Stuttgart, Baden-Württemberg.
+Plus10 is a manufacturing company based in Augsburg, Bayern and Stuttgart, Baden-Württemberg. The project was done with plus10 on a public dataset. The dataset used here can be found at https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/ #10 FEMTO Bearing Data Set.
 
 The Project is divided into 2 parts: 
 
